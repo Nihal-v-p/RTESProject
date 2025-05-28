@@ -5,7 +5,7 @@ This project detects Parkinsonian resting tremors (3–6 Hz) using the built-in 
 We also applied a **moving average filter** to smooth angular velocity data before performing frequency domain analysis, improving noise resilience in real-time detection.
 
 ### 📽️ Demo Video
-[![Watch the demo](https://img.youtube.com/vi/AfLE_Fn-GYE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=AfLE_Fn-GYE))
+[![Watch the demo](https://img.youtube.com/vi/AfLE_Fn-GYE/0.jpg)](https://www.youtube.com/watch?v=AfLE_Fn-GYE)
 
 > Click the thumbnail to view the demo on YouTube.
 
